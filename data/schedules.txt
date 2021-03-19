@@ -1,3 +1,4 @@
+/mens-college-basketball/schedule
 /mens-college-basketball/team/schedule/_/id/91
 /mens-college-basketball/team/schedule/_/id/526
 /mens-college-basketball/team/schedule/_/id/294
